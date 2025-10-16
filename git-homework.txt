@@ -1,0 +1,4 @@
+This is my bootcamp homework file
+
+Question 1 What is the difference between Git and GitHub?
+Git is the tool on your computer where you create branches, merges, and change code. GitHub is where you store files online in a centralized location.
