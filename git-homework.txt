@@ -5,3 +5,6 @@ Git is the tool on your computer where you create branches, merges, and change c
 
 Question 2 What’s the difference between ‘git add <file>’, ‘git add .’, and ‘git add -A?
 You use "git add ‹file name>" to add a specific file you changed, "git add -A" to add everything that you just changed, and "git add." to add everything you changed inside the current directory.
+
+Question 3 What does git push do? What does git pull do?
+Git push pushes your code up to the remote branch so that everyone can see it, while git pull downloads content from a remote repository and integrates it into the local repository.
